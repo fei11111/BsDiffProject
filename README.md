@@ -5,3 +5,7 @@ PatchUpdate是android项目，里面包含差分和合并，如果需要合并�
 BsDllProject是.c项目，用vs2019开发，生成dll文件，适应于任何开发环境生成差分包
 
 BsDidiffProject是java项目，利用生成的dll文件生成差分包
+
+# 参考
+
+https://blog.csdn.net/ywl5320/article/details/78318648
