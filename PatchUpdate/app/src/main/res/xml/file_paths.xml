@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path path="Android/data/com.fei.vic/" name="files_root" />
+    <external-path path="." name="external_storage_root" />
+    <external-cache-path name="name" path="path" />
+    <!-- 调用系统拍照保存路径 -->
+    <external-path
+        name="temp"
+        path="temp_storage" />
+    <external-files-path name="name" path="temp_storage" />
+</paths>

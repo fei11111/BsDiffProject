@@ -1,0 +1,10 @@
+﻿  bsdiff.cpp
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(231,13): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(236,19): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(237,13): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(258,10): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(259,13): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(261,4): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(265,19): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+D:\Workspaces\BsDllProject\BsDllProject\bsdiff.cpp(266,13): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  BsDllProject.vcxproj -> D:\Workspaces\BsDllProject\BsDllProject\Debug\BsDllProject.exe
